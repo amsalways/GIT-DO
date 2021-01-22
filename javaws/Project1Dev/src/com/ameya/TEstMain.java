@@ -6,6 +6,7 @@ public class TEstMain {
 		System.out.println("Hello World !!");
 		NewTestClass n= new NewTestClass();
 		System.out.println("Working");
+		System.out.println("Working");
 	}
 
 }
