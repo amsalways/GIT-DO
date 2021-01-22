@@ -7,6 +7,7 @@ public class TEstMain {
 		NewTestClass n= new NewTestClass();
 		System.out.println("Working");
 		System.out.println("Working");
+		System.out.println("Again Working");
 	}
 
 }
