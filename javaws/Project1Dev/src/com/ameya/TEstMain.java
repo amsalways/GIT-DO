@@ -4,7 +4,7 @@ public class TEstMain {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World !!");
-
+		NewTestClass n= new NewTestClass();
 	}
 
 }
